@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libPA1.so -o ../lib/libPA1.so CMakeFiles/PA1.dir/src/hello.cpp.o 
